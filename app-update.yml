@@ -1,0 +1,4 @@
+owner: dogoran-el
+repo: arizona-launcher
+provider: github
+updaterCacheDirName: arizona-launcher-updater
